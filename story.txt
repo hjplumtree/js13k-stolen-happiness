@@ -1,6 +1,0 @@
-According to legend, a page of our island's book was stolen.
-It was 404th page about hapiness, why we couldn't see the page.
-Rumos says that the page was torn and sunk into the sea.
-I'll find it and bring it to the island!
-
-color: #660A00;
