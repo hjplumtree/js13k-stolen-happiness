@@ -405,15 +405,15 @@ function introLoop() {
   ctx.font = "bolder 44px monospace";
   ctx.fillStyle = '#660A00';
   ctx.textAlign = "center";
-  ctx.fillText("Stolen Page", cvs.width/2, 100);
+  ctx.fillText("Stolen Happiness", cvs.width/2, 100);
 
   // Story
   ctx.font = "italic 24px cursive";
   ctx.fillStyle = '#660A00';
-  ctx.fillText("According to legend, a page from our island book was stolen", cvs.width/2, 175);
+  ctx.fillText("According to legend, a page of our island book was stolen", cvs.width/2, 175);
   ctx.fillText("It was 404th page that tells 'hapiness'", cvs.width/2, 210);
   ctx.fillText("Rumor says that the page was torn and sunk in the sea", cvs.width/2, 245);
-  ctx.fillText("I'll find it and bring it to the island!", cvs.width/2, 280);
+  ctx.fillText("I'll find it and bring it back to the island!", cvs.width/2, 280);
 
   ctx.font = "bolder 34px monospace";
   ctx.fillStyle = '##b31100';
